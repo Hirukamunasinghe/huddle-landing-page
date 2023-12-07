@@ -314,16 +314,17 @@ a{
 
 
     .icons-div{
-        flex-direction: column;
-        margin-left: 20px;
+        display: flex;
+        margin-left: -250px;
     }
 
     footer{
         background-color: hsl(192, 100%, 9%);
         display: grid;
         grid-template-columns: 1fr;
-        height: 100vh;
+        height: 900px;
         margin: auto;
+        text-align: center;
     }
 
 
@@ -332,8 +333,8 @@ a{
     }
 
     footer .second{
-        margin-left: 60px;
         gap: 10px;
+        margin-left: -250px;
     }
 
     footer .third-text{
