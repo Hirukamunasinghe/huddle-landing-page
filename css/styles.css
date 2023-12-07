@@ -322,6 +322,15 @@ a{
         background-color: hsl(192, 100%, 9%);
         height: 300px;
         margin-top: 90px;
+        column-gap: 20px;
+    }
+
+    footer .second{
+        margin-left: -40px
+    }
+
+    footer .third-text{
+        margin-left: 20px;
     }
 
     .last-heading{
