@@ -271,15 +271,17 @@ a{
     }
     
     .card-div .card{
-        width: 50%;
+        margin: auto;
+        width: 300px;
         border: 0px;
         border-radius: 0px;
         height: 800px;
         flex-direction: column;
+        justify-content: center;
         align-items: center;
+        margin-right: 600px;
         row-gap: 100px;
         box-shadow: none;
-        margin-right: 300px;
         text-align: center;
         width: 400px;
     }
