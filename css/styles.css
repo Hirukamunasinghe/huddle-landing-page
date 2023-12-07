@@ -266,7 +266,7 @@ a{
     .card-div{
         text-align: center;
         margin-top: 700px;
-        row-gap: 30px;
+        row-gap: 40px;
         width: 400px;
     }
     
@@ -276,6 +276,7 @@ a{
         border-radius: 0px;
         height: 800px;
         flex-direction: column;
+        align-items: center;
         row-gap: 100px;
         box-shadow: none;
         margin-right: 300px;
