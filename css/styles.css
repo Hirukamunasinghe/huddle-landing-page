@@ -270,7 +270,6 @@ a{
     .card-div{
         text-align: center;
         margin-top: 700px;
-        row-gap: 40px;
         width: 400px;
     }
     
@@ -291,12 +290,13 @@ a{
     .card .text{
         width: 200px;
         text-align: center;
-        margin-right: 30px;
+        margin-right: 100px;
     }
 
     .card .card-image{
         margin-top: -80px;
         width: 200px;
+        margin-right: 100px;
     }
 
     .card .image-two{
@@ -320,16 +320,13 @@ a{
 
     footer{
         background-color: hsl(192, 100%, 9%);
-        display: grid;
-        grid-template-columns: 1fr 1fr 1fr 1fr;
-        color: white;
-        height: 250px;
+        height: 300px;
         margin-top: 90px;
     }
 
     .last-heading{
-        margin-top: 230px;
         margin-right: 120px;
+        margin-top: 270px;
     }
 
     .text .comm-h2{
