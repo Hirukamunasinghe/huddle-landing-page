@@ -325,7 +325,7 @@ a{
         background-color: hsl(192, 100%, 9%);
         display: grid;
         grid-template-columns: 1fr;
-        height: 100vh;
+        height: 900px;
         margin: auto;
         text-align: center;
     }
@@ -348,7 +348,7 @@ a{
     .last-heading{
         text-align: center;
         display: flex;
-        margin-top: 1200px;
+        margin-top: 880px;
         justify-content: center;
         margin-right: 110px;
     }
