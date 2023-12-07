@@ -272,22 +272,26 @@ a{
     
     .card-div .card{
         margin: auto;
-        width: 300px;
         border: 0px;
         border-radius: 0px;
         height: 800px;
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        margin-right: 1100px;
         row-gap: 100px;
         box-shadow: none;
         text-align: center;
         width: 400px;
     }
 
+    .card .text{
+        width: 300px;
+        text-align: center;
+    }
+
     .card .card-image{
         margin-top: -80px;
+        width: 100%;
     }
 
     .card .image-two{
