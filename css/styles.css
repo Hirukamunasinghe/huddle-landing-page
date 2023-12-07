@@ -285,13 +285,14 @@ a{
     }
 
     .card .text{
-        width: 300px;
+        width: 200px;
         text-align: center;
+        margin-right: 30px;
     }
 
     .card .card-image{
         margin-top: -80px;
-        width: 100%;
+        width: 90%;
     }
 
     .card .image-two{
@@ -303,8 +304,8 @@ a{
     }
 
     .card-div .community-card{
-        width: 350px;
-        margin-left: 20px;
+        width: 300px;
+        margin-left: 10px;
     }
 
 
