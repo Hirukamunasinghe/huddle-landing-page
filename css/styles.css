@@ -267,6 +267,7 @@ a{
         text-align: center;
         margin-top: 700px;
         row-gap: 30px;
+        width: 400px;
     }
     
     .card-div .card{
@@ -278,6 +279,8 @@ a{
         row-gap: 100px;
         box-shadow: none;
         margin-right: 300px;
+        text-align: center;
+        width: 400px;
     }
 
     .card .card-image{
@@ -293,7 +296,7 @@ a{
     }
 
     .card-div .community-card{
-        width: 500px;
+        width: 400px;
         height: 100%;
         border-radius: 20px;
         background-color: white;
@@ -302,8 +305,9 @@ a{
         text-align: center;
         margin-bottom: -50px;
         margin-top: 100px;
-        margin-right: 200px;
+        margin-right: 300px;
     }
+
 
     .icons-div{
         flex-direction: column;
