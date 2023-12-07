@@ -315,7 +315,6 @@ a{
 
     .icons-div{
         display: flex;
-        margin-left: -250px;
     }
 
     footer{
@@ -334,7 +333,7 @@ a{
 
     footer .second{
         gap: 10px;
-        margin-left: -250px;
+        margin-left: -100px;
     }
 
     footer .third-text{
@@ -342,7 +341,6 @@ a{
     }
 
     .last-heading{
-        margin-right: 120px;
         text-align: center;
         position: absolute;
         bottom: 0;
