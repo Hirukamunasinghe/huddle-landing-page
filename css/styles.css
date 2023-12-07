@@ -334,7 +334,6 @@ a{
 
     .footer-div{
         margin-top: 150px;
-
     }
 
     footer .second{
@@ -351,14 +350,11 @@ a{
         margin-top: 860px;
         display: flex;
         justify-content: center;
+        margin-left: 40px;
     }
 
     .text .comm-h2{
         margin-top: 20px;
         font-size: 1.6rem;
-    }
-
-    .last-div{
-        background-color: hsl(192, 100%, 9%);
     }
 }
