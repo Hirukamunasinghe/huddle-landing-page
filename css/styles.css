@@ -319,6 +319,7 @@ a{
 
     .icons-div{
         display: flex;
+        margin-bottom: 80px;
     }
 
     footer{
@@ -347,10 +348,8 @@ a{
 
     .last-heading{
         text-align: center;
-        display: flex;
-        margin-top: 880px;
-        justify-content: center;
-        margin-right: 110px;
+        margin-top: 860px;
+        margin-right: 60px;
     }
 
     .text .comm-h2{
