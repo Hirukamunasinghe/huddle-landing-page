@@ -333,7 +333,7 @@ a{
 
     footer .second{
         gap: 10px;
-        margin-left: -100px;
+       
     }
 
     footer .third-text{
@@ -344,6 +344,8 @@ a{
         text-align: center;
         position: absolute;
         bottom: 0;
+        display: flex;
+        justify-content: center;
     }
 
     .text .comm-h2{
@@ -351,5 +353,7 @@ a{
         font-size: 1.6rem;
     }
 
-
+    .last-div{
+        background-color: hsl(192, 100%, 9%);
+    }
 }
