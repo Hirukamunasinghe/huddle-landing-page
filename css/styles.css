@@ -7,6 +7,7 @@
 
 body{
     height: 100vh;
+    scroll-behavior: smooth;
 }
 
 .main-div{
@@ -329,6 +330,7 @@ a{
         height: 900px;
         margin: auto;
         text-align: center;
+        overflow: hidden;
     }
 
 
@@ -350,7 +352,6 @@ a{
         margin-top: 860px;
         display: flex;
         justify-content: center;
-        margin-left: 40px;
     }
 
     .text .comm-h2{
